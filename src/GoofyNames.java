@@ -26,7 +26,7 @@ for(int i = 0;i < namelong;i++) {}
 			String charic = name.substring(i, i+1);
 			// 5. Use MODULO to set this variable to upper case for EVEN characters
 			//    and lower case for ODD characters.
-
+//ffffff
 			
 			// 6. ADD this String  (containing 1 char) to the goofyName String
 
