@@ -32,11 +32,33 @@ public static void main(String[] args) {
 	//System.out.println("In " + f + " I was " + g);}
 		
 	
-	//1.		
-	//for(int h = 0; h  )
-
-
-
+		
+	//1. for(int h = 0; h < 3; h++ ) {
+		
+		//for (int i = 0; i < 3; i++) {
+		//System.out.println(h + " " + i);}}
+		
+	//2. for (int j = 1; j < 9; j+=3) {
+		
+		//for (int k = j; k < j+3; k++) {
+			//System.out.print(k);}
+		
+		//System.out.println();}
+	
+		//3. for (int l = 1; l < 100; l+=10) {
+		
+		//for (int m = l; m < l+10; m++) {
+		//System.out.print(m);}
+		
+		//System.out.println();}
+		
+		for (int n = 0; n < 6; n++) {
+			
+		for (int o = n; o < n+; o++) {
+			System.out.print("*");
+		}
+		System.out.println();
+		}
 
 }
 }
